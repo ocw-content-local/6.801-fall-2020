@@ -1,24 +1,11 @@
 {
   "term": "Fall",
-  "year": "2020",
+  "year": "",
   "level": [],
-  "topics": [
-    [
-      "Engineering",
-      "Computer Science",
-      "Artificial Intelligence"
-    ],
-    [
-      "Engineering",
-      "Computer Science",
-      "Graphics and Visualization"
-    ]
-  ],
+  "topics": [],
   "legacy_uid": "0453cd57-38d0-e18a-03ff-2c1c32ecc426",
   "instructors": {
-    "content": [
-      "f886788c-41aa-8c0d-f4f7-3e5ba570852b"
-    ],
+    "content": [],
     "website": "ocw-www"
   },
   "course_image": {
@@ -28,20 +15,15 @@
   "course_title": "Machine Vision",
   "course_description": "",
   "department_numbers": [
-    "6"
+    "1"
   ],
-  "extra_course_numbers": "6.866",
-  "primary_course_number": "6.801",
+  "extra_course_numbers": "",
+  "primary_course_number": "21212",
   "course_image_thumbnail": {
     "content": "437da319-195a-dff7-8683-52db249d72c5",
     "website": "6-801-machine-vision-fall-2020"
   },
-  "learning_resource_types": [
-    "Problem Sets",
-    "Exams",
-    "Lecture Notes",
-    "Projects"
-  ],
+  "learning_resource_types": [],
   "site_uid": "52aa0201-dab4-4652-812c-519e66c50e6f",
   "title": "Course Metadata"
 }
